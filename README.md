@@ -1,0 +1,1 @@
+# next-stripe-schadcn-template
